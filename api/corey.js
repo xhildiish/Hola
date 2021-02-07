@@ -19,4 +19,6 @@
 // So we pushed the previously checked in version.
 //
 // If you change a file, then check it in, then checge it again, then check it in
-// When tyou push, it'll push the two check ins separate check ins.
+// When tyou push, it'll push the two check ins separate check ins
+
+// I thought you were working in the HolaHoop folder
