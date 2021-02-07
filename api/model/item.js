@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 
 //create schema
 
-const ModelsSchema = new Schema({
+const ItemSchema = new Schema({
     name: {
         type: String,
         required: true
@@ -26,4 +26,4 @@ const ModelsSchema = new Schema({
     }
 })
 
-module.exports = Models = mongoose.model('models', 'ModelsSchema')
+module.exports = Item = mongoose.model('item', 'ItemSchema')
