@@ -10,3 +10,13 @@
 // I wil do that now.
 
 // Now I will add this new file.
+
+// Still not there, of course, cause we haven't piushed.
+// Pushing now.
+
+// Notoice that the file pushed to github did not have our most recent comments in it.
+// That 's because we neverfr checked in those most recent comments before pushing
+// So we pushed the previously checked in version.
+//
+// If you change a file, then check it in, then checge it again, then check it in
+// When tyou push, it'll push the two check ins separate check ins.
