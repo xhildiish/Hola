@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://xhildish:xhildish1996@projects-glmt3.mongodb.net/ReactCourse?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://xhildish:xhildish1996@cluster0.3kwxi.mongodb.net/TestReactCourse?retryWrites=true&w=majority"
 }
