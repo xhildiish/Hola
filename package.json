@@ -1,0 +1,22 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm start --prefix api",
+    "web": "npm start --prefix web",
+    "dev": "concurrently \"npm run server\" \"npm run web\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhildiish/Hola.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhildiish/Hola/issues"
+  },
+  "homepage": "https://github.com/xhildiish/Hola#readme",
+  "description": ""
+}
